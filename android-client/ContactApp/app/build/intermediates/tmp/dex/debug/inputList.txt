@@ -1,0 +1,6 @@
+C:\Users\maxto\Desktop\REST-in-SlimFramework-master\android-client\ContactApp\app\build\intermediates\classes\debug
+C:\Users\maxto\Desktop\REST-in-SlimFramework-master\android-client\ContactApp\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1-9ad08f50946a0c4f2960001fde972346d3c1f217.jar
+C:\Users\maxto\Desktop\REST-in-SlimFramework-master\android-client\ContactApp\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1-8fc943976a748a0080f153938b6c1d995c8c83da.jar
+C:\Users\maxto\Desktop\REST-in-SlimFramework-master\android-client\ContactApp\app\build\intermediates\pre-dexed\debug\org.jbundle.util.osgi.wrapped.org.apache.http.client-4.1.2-fd8a4a03b94b7d41842aab582757847ec37d4b50.jar
+C:\Users\maxto\Desktop\REST-in-SlimFramework-master\android-client\ContactApp\app\build\intermediates\pre-dexed\debug\classes-f0ed426062532cdf2a16a6d127b36c82dc7ef63d.jar
+C:\Users\maxto\Desktop\REST-in-SlimFramework-master\android-client\ContactApp\app\build\intermediates\pre-dexed\debug\classes-16f544f4b34dbac16443be6d12267f242ac38bcd.jar
